@@ -1,6 +1,6 @@
 {
   "name": "@ctogg/pi-cost-counter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pi extension that tracks LLM API costs across all sessions with daily JSONL logging and a /cost command",
   "type": "module",
   "keywords": [
@@ -27,7 +27,9 @@
     "LICENSE"
   ],
   "pi": {
-    "extensions": ["./index.ts"]
+    "extensions": [
+      "./index.ts"
+    ]
   },
   "scripts": {
     "clean": "echo 'nothing to clean'",
