@@ -1,6 +1,6 @@
 # pi Cost Tracker
 
-A [pi](https://github.com/badlogic/pi-mono) extension that tracks LLM API costs across all sessions. Every API call is logged to a local append-only ledger so you always know what you're spending.
+A [pi](https://github.com/earendil-works/pi-coding-agent) extension that tracks LLM API costs across all sessions. Every API call is logged to a local append-only ledger so you always know what you're spending.
 
 ## Features
 
